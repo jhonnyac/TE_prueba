@@ -9,5 +9,6 @@
     <body>
         <h1>TE PRUEBA</h1>
         <p>Un proyecto para GitHub</p>
+        <a href="Main">Ejecutar servlet</a>
     </body>
 </html>
